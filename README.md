@@ -1,2 +1,2 @@
 # perlin
-Sketchs using perlin noise
+Sketches using perlin noise
